@@ -1,0 +1,100 @@
+{
+    "data": [{
+            "id": "1000",
+            "code": "f230fh0g3",
+            "name": "Samsung Galaxy S9",
+            "description": "Product Description",
+            "image": "assets/images/product/1.jpg",
+            "price": 1500,
+            "category": "Phones",
+            "quantity": 24,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5
+        },
+        {
+            "id": "1001",
+            "code": "nvklal433",
+            "name": "LG G6",
+            "description": "Product Description",
+            "image": "assets/images/product/2.jpg",
+            "price": 1000,
+            "category": "Phones",
+            "quantity": 61,
+            "inventoryStatus": "INSTOCK",
+            "rating": 4
+        },
+        {
+            "id": "1002",
+            "code": "zz21cz3c1",
+            "name": "iPhone 8",
+            "description": "Product Description",
+            "image": "assets/images/product/3.jpg",
+            "price": 800,
+            "category": "Phones",
+            "quantity": 2,
+            "inventoryStatus": "LOWSTOCK",
+            "rating": 3
+        },
+        {
+            "id": "1003",
+            "code": "244wgerg2",
+            "name": "Motorola G5",
+            "description": "Product Description",
+            "image": "assets/images/product/4.jpg",
+            "price": 900,
+            "category": "Phones",
+            "quantity": 25,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5
+        },
+        {
+            "id": "1004",
+            "code": "h456wer53",
+            "name": "Moto G4",
+            "description": "Product Description",
+            "image": "assets/images/product/5.jpg",
+            "price": 300,
+            "category": "Phones",
+            "quantity": 73,
+            "inventoryStatus": "INSTOCK",
+            "rating": 4
+        },
+        {
+            "id": "1005",
+            "code": "av2231fwg",
+            "name": "Sony XPeria ZX2",
+            "description": "Product Description",
+            "image": "assets/images/product/6.jpg",
+            "price": 1000,
+            "category": "Phones",
+            "quantity": 0,
+            "inventoryStatus": "OUTOFSTOCK",
+            "rating": 4
+        },
+        {
+            "id": "1006",
+            "code": "bib36pfvm",
+            "name": "LG K18",
+            "description": "Product Description",
+            "image": "assets/images/product/7.jpg",
+            "price": 1800,
+            "category": "Phones",
+            "quantity": 5,
+            "inventoryStatus": "LOWSTOCK",
+            "rating": 3
+        },
+        {
+            "id": "1007",
+            "code": "mbvjkgip5",
+            "name": "LG K20",
+            "description": "Product Description",
+            "image": "assets/images/product/8.jpg",
+            "price": 2000,
+            "category": "Phones",
+            "quantity": 23,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5
+        }
+
+    ]
+}

@@ -1,2 +1,34 @@
 <router-outlet>
 </router-outlet>
+<p-card>
+    <ng-template pTemplate="header">
+
+    </ng-template>
+</p-card>
+<br>
+
+
+<div class="p-grid">
+
+
+    <div class="p-col-12 p-md-6 p-lg-3" *ngFor="let item of products">
+
+        <p-card [header]="item.name" subheader="${{item.price}}" styleClass="p-card-shadow">
+            <ng-template pTemplate="header">
+                <img alt="Card" src="{{item.image}}" style="height: 300px;">
+            </ng-template>
+
+            <ng-template pTemplate="footer">
+                <p-button label="Buy"></p-button>
+            </ng-template>
+        </p-card>
+
+    </div>
+
+</div>
+<br>
+<p-card>
+    <ng-template pTemplate="footer">
+
+    </ng-template>
+</p-card>
